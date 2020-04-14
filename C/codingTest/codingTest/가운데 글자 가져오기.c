@@ -6,7 +6,7 @@
 
 char* solution(const char* s) {
 
-    int size = (int) strlen(s);
+    int size = sizeof(s);
 
     char *answer = (char*)malloc(2);
     memset(answer, 0, sizeof(int)*2);
