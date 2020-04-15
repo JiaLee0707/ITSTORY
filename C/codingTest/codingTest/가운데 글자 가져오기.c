@@ -18,6 +18,7 @@ char* solution(const char* s) {
     else {
         *answer = s[size / 2];
     }
+    // *(answer+2) = '\0';
 
 
     return answer;
