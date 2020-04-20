@@ -21,5 +21,8 @@
     <ClCompile Include="가운데 글자 가져오기.c">
       <Filter>소스 파일\Level 1</Filter>
     </ClCompile>
+    <ClCompile Include="두 정수 사이의 합.c">
+      <Filter>소스 파일\Level 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
