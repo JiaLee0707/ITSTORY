@@ -30,5 +30,5 @@ int main(void) {
         }
     }
     
-    printf("두 정수 사이의 합 : %lld", solution(a, b));
+    printf("두 정수 사이의 합 : %lld\n", solution(a, b));
 }

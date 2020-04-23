@@ -28,5 +28,5 @@ int main(void) {
     printf("내림차순할 문자열을 입력하세요 : ");
     scanf("%s", s);
 
-    printf("내림차순 : %s", solution(s));
+    printf("내림차순 : %s\n", solution(s));
 }

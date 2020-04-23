@@ -32,5 +32,5 @@ int main(void) {
 
     //solution(s);
 
-    printf("%s", solution(s));
+    printf("%s\n", solution(s));
 }

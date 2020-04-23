@@ -30,5 +30,11 @@
     <ClCompile Include="문자열 다루기 기본.c">
       <Filter>소스 파일\Level 1</Filter>
     </ClCompile>
+    <ClCompile Include="수박수.c">
+      <Filter>소스 파일\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2016년.c">
+      <Filter>소스 파일\Level 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
